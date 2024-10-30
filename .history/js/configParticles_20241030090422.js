@@ -1,3 +1,11 @@
+// $(document).ready(() => {
+//   let widthWindow = $(window).width();
+
+//   // if (widthWindow > 768) {
+/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+// particlesJS.load('particles-js', 'assets/particles.json', function() {
+//   console.log('callback - particles.min.js config loaded');
+// });
 
 particlesJS('particles-js',
 
@@ -119,3 +127,5 @@ particlesJS('particles-js',
   }
 
 );
+//   }
+// });
